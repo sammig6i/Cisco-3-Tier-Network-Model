@@ -1,6 +1,6 @@
 <img src="./download.png">
 
-# CISCO 3-Tier Architecture Network Diagram
+# Cisco 3-Tier Architecture Network Diagram
 
 ## Introduction
 
