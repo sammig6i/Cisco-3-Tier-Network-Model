@@ -16,7 +16,8 @@ This is a university project which aimed to offer hands-on experience in craftin
 
 <object 
 src="City_of_Boise_CISCO_3_Tier_Presentation.pdf" 
-width=auto 
-height=auto
+width=700px 
+height=700px
 type="application/pdf">
+
 </object>
