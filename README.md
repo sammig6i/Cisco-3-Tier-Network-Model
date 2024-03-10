@@ -15,10 +15,10 @@ This is a university project which aimed to offer hands-on experience in craftin
 ![[City_of_Boise_CISCO_3_Tier_Presentation.pdf]]
 
 <object 
-src="City_of_Boise_CISCO_3_Tier_Presentation.pdf" 
+src="./City_of_Boise_CISCO_3_Tier_Presentation.pdf" 
 width=700px 
 height=700px
 type="application/pdf">
-<embed src="City_of_Boise_CISCO_3_Tier_Presentation.pdf">
+<embed src="./City_of_Boise_CISCO_3_Tier_Presentation.pdf">
 
 </object>
