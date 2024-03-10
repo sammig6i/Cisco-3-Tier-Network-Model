@@ -10,15 +10,12 @@ This is a university project which aimed to offer hands-on experience in craftin
 
 ## Report
 
-* [`CISCO Network Diagram (Made with Microsoft Visio)`](https://github.com/sammig6i/city_of_boise_cisco_3tier_network/blob/main/cisco_3_layer_network_model.pdf)
+- [`CISCO Network Diagram (Made with Microsoft Visio)`](https://github.com/sammig6i/city_of_boise_cisco_3tier_network/blob/main/cisco_3_layer_network_model.pdf)
 
 ![[City_of_Boise_CISCO_3_Tier_Presentation.pdf]]
 
 <object 
 data="./City_of_Boise_CISCO_3_Tier_Presentation.pdf" 
 width="800"
-height="800"
-type="application/pdf">
-<embed src="./City_of_Boise_CISCO_3_Tier_Presentation.pdf">
-</embed>
+height="800">
 </object>
