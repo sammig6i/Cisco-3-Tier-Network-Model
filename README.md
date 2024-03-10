@@ -14,6 +14,5 @@ This is a university project which aimed to offer hands-on experience in craftin
 
 ![[City_of_Boise_CISCO_3_Tier_Presentation.pdf]]
 
-<p>
-  <img src="./City_of_Boise_CISCO_3_Tier_Presentation.pdf" alt="network model">
-</p>
+<embed src="./City_of_Boise_CISCO_3_Tier_Presentation.pdf" 
+ type="application/pdf">
