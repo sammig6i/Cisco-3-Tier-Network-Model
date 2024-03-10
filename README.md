@@ -8,7 +8,7 @@ This a group project from university and the prompt was to build an innovative n
 
 ## Goal
 
-This is a university project which aimed to offer hands-on experience in crafting a network diagram using the CISCO 3 Tier Architecture model, utilizing Microsoft Visio within a team setting.
+This is a university project which aimed to offer hands-on experience in crafting a network diagram using the Cisco 3 Tier Architecture model, utilizing Microsoft Visio within a team setting.
 
 ## Report
 
