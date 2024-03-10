@@ -14,8 +14,8 @@ This is a university project which aimed to offer hands-on experience in craftin
 
 ![[City_of_Boise_CISCO_3_Tier_Presentation.pdf]]
 
-<object 
-data="./City_of_Boise_CISCO_3_Tier_Presentation.pdf" 
-width="800"
-height="800">
-</object>
+<iframe 
+  src="./City_of_Boise_CISCO_3_Tier_Presentation.pdf" 
+  width="800"
+  height="800">
+</iframe>
